@@ -1,17 +1,11 @@
 #json
 {
   "firstName": "Tanya"
-  "lastName": "Stamal"[A,[,
+  "lastName": "Stamal",
   "age": 32,
-  "pets": 1,
-  "salary"; 5000
-}[A[A[B[A[A[C[C[C[C[C[C[C[C[C[C[C
-
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C
-
-[3~[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[[3~[3~[B[B[A[A },
-[A[C[C[
-[C[C["pets":{ 
+  
+  "pets":{ 
      "amount":1,
 }
   "salary": 5000
+}
